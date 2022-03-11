@@ -25,8 +25,8 @@ Incididunt commodo aliqua et Lorem veniam velit velit ullamco eiusmod do pariatu
 
 ### Eiusmod tempor et fugiat
 ```mermaid
-Graph TD;
-"Miðja" : 35%
+Pie Title Úr töflunni hér að ofan
+"Miðja" : 33%
 "Hægri" : 55%
 "Miðja" : 12%
 
