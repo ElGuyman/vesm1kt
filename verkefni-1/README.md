@@ -26,7 +26,7 @@ Incididunt commodo aliqua et Lorem veniam velit velit ullamco eiusmod do pariatu
 ### Eiusmod tempor et fugiat
 ```mermaid
 pie title Úr töflunni hér að ofan
-"Miðja" : 33
+"Vinstri" : 33
 "Hægri" : 55
 "Miðja" : 12
 ```
