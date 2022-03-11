@@ -32,9 +32,9 @@ pie title Úr töflunni hér að ofan
 ```
 
 ### Dolore ut velit
-
+<dl>
 void setup() { Serial.begin(9600); Serial.println("Halló"); }
-
+</dl>
 ## Commodo occaecat
 
 Incididunt laborum mollit cupidatat laboris anim
