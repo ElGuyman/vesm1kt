@@ -26,9 +26,10 @@ Incididunt commodo aliqua et Lorem veniam velit velit ullamco eiusmod do pariatu
 ### Eiusmod tempor et fugiat
 ```mermaid
 Pie Title Úr töflunni hér að ofan
-"Miðja" : 33%
-"Hægri" : 55%
-"Miðja" : 12%
+"Miðja": 33%
+"Hægri": 55%
+"Miðja": 12%
+```
 
 ### Dolore ut velit
 
