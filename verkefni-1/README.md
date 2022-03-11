@@ -24,7 +24,11 @@ Incididunt commodo aliqua et Lorem veniam velit velit ullamco eiusmod do pariatu
 | tempor | et | fugiat |
 
 ### Eiusmod tempor et fugiat
-
+```mermaid
+Graph TD;
+"Miðja" : 35%
+"Hægri" : 55%
+"Miðja" : 12%
 
 ### Dolore ut velit
 
