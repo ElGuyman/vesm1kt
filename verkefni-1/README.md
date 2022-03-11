@@ -33,8 +33,8 @@ pie title Úr töflunni hér að ofan
 
 ### Dolore ut velit
 <dl>
-<dt>void setup() { 
-  Serial.begin(9600); 
+<dt>void setup() { </dt>
+  <dd>Serial.begin(9600);<dd>
   Serial.println("Halló");
   }
 </dl>
