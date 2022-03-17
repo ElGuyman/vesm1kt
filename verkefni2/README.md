@@ -7,3 +7,5 @@
 
 ##### Ferlið
 Ég notaði Inkscape til þess að gera mitt logo. Ég byrjaði á því að búa til þrjá ferhyrninga og gerði svo horninn mýkri þannig að þeit litu svolítið út eins og pulsur. Síðan notaði ég align tólið til þess að láta þá vera rétt setta upp. Ég notaði gradient tólið til þess að gera tvo liti sem blandast svo saman. Síðan skrifaði ég smá texta sem ég setti í einn ferhyrninginn. Síðan exportaðði ég líka merkinu sem PNG mynd.
+
+##### Verkefni 2.2
