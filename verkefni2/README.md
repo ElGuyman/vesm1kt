@@ -11,3 +11,4 @@
 ##### Verkefni 2.2
 ![SVG Mynd](https://raw.githubusercontent.com/ElGuyman/vesm1kt/80eddfad7db9c59c9782ccad17586dca80640bac/verkefni2/coollogo2.svg)
 ![PNG Mynd](https://github.com/ElGuyman/vesm1kt/blob/main/verkefni2/coolbusinesscard.png?raw=true)
+![JPG Mynd](https://github.com/ElGuyman/vesm1kt/blob/main/verkefni2/IMG_20220318_120151.jpg?raw=true)
